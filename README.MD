@@ -25,7 +25,7 @@ My projects from the core curriculum at [42 Berlin](https://42berlin.de/), a pee
 | [cub3D](round_4/cub3d) | C | See highlights above. |
 | [CPP Modules 01–04](round_4) | C++ | Exercises on memory allocation, references, operator overloading, fixed-point numbers, inheritance, and polymorphism. |
 | [Arachnida](SecurityPiscine/arachnida) | Python | Cybersecurity piscine: `spider`, a recursive image scraper, and `scorpion`, an image metadata (EXIF) extractor. |
-| [Exam practice](round_5/Exam_practice) | C / C++ | Practice exercises for the timed 42 exams. Also see [round 3](round_3/Exam_practice) and [round 4](round_4/Exam_practice). |
+| [Exam practice](ExamPractice) | C / C++ | Practice exercises for the timed 42 exams.|
  
 ## What I took away
  
