@@ -122,6 +122,7 @@ def	init_scraper(URL, max_depth, path) :
 		exit(1)
 	try:
 		response = requests.get(URL, timeout=10)
+		print(requests)
 	except requests.exceptions.RequestException as e:
 		print(f"{e}")
 		exit(1)
