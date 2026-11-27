@@ -31,9 +31,9 @@ My projects from the core curriculum at [42 Berlin](https://42berlin.de/), a pee
 | [ft_otp](SecurityPiscine/ft_otp) | Python | 🚧 | Cybersecurity piscine: a one-time password generator based on HOTP / TOTP (RFC 4226 / 6238). |
 | [Exam practice](ExamPractice) | C / C++ | 📝 | Practice exercises for the timed 42 exams. |
  
-## What I took away
- 
-- **How a computer actually works underneath.** Managing memory by hand, handling file descriptors, and creating processes and threads with system calls taught me what higher-level languages normally hide.
-- **Debugging without a safety net.** Tracking down memory leaks, race conditions, and undefined behavior with tools like Valgrind and GDB.
+- **the 42 school school teaches you how to code through a peer-to-peer learning method. Getting to know C and C++ through hands projects has increased my knowledge of computers significantly. 
+
+## Some of the competencies I have developed 
+- **Debugging.** From tracking down memory leaks to spotting race conditions, and undefined behavior with tools like Valgrind and GDB.
 - **Working with other people's code.** Every project gets reviewed by fellow students, and the larger projects were built in pairs. So explaining my design choices, and reading code I didn't write, became part of daily work.
-- **Learning on my own.** With no lectures, each project began with reading man pages and specifications and working out the approach myself.
+- **General problem solving** Without lectures or teachers, each project begins with familiarizing yourself with knew concepts, reading documents and exploring examples.
