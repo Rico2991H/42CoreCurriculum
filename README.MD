@@ -1,6 +1,6 @@
 # 42 Core Curriculum
- 
-My projects from the core curriculum at [42 Berlin](https://42berlin.de/), a peer-to-peer coding school with no teachers or lectures. You learn by building projects in C and C++ to strict specifications, and your fellow students review and grade the code.
+
+The 42 school school teaches you how to code through a peer-to-peer learning method. Getting to know C and C++ through hands projects has brought me a lot of joy and increased my knowledge of computers significantly, I hope you enjoy scanning the work in this repository.
  
 ## Highlights
  
@@ -30,8 +30,6 @@ My projects from the core curriculum at [42 Berlin](https://42berlin.de/), a pee
 | [Arachnida](SecurityPiscine/arachnida) | Python | 🚧 | Cybersecurity piscine: `spider`, a recursive image scraper, and `scorpion`, an image metadata (EXIF) extractor. |
 | [ft_otp](SecurityPiscine/ft_otp) | Python | 🚧 | Cybersecurity piscine: a one-time password generator based on HOTP / TOTP (RFC 4226 / 6238). |
 | [Exam practice](ExamPractice) | C / C++ | 📝 | Practice exercises for the timed 42 exams. |
- 
-- **the 42 school school teaches you how to code through a peer-to-peer learning method. Getting to know C and C++ through hands projects has increased my knowledge of computers significantly. 
 
 ## Some of the competencies I have developed 
 - **Debugging.** From tracking down memory leaks to spotting race conditions, and undefined behavior with tools like Valgrind and GDB.
